@@ -1,0 +1,282 @@
+@media screen and (max-width: 450px) {
+  .iconlogo2 {
+    width: 89px;
+    position: relative;
+    height: 21px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .group-icon {
+    width: 22px;
+    position: relative;
+    height: 10px;
+  }
+  .iconlogo-group {
+    position: absolute;
+    top: 14px;
+    left: 10px;
+    width: 340px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .how-to-do4 {
+    font-size: var(--font-size-13xl);
+    letter-spacing: 0.02em;
+    line-height: 120%;
+    font-weight: 600;
+  }
+  .how-to-do4,
+  .thus-youll-compile2,
+  .usability-auditing-with2 {
+    align-self: stretch;
+    position: relative;
+  }
+  .thus-youll-compile2 {
+    color: var(--body-gray);
+  }
+  .usability-auditing-with-the-pl-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .run-the-plerdy2 {
+    position: relative;
+    line-height: 130%;
+    font-weight: 500;
+  }
+  .run-the-plerdy-tool-container {
+    border-radius: var(--br-6xs);
+    background-color: var(--color1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-11xl);
+    font-size: var(--body-2-size);
+    color: var(--color-white);
+  }
+  .frame-child2 {
+    width: 319.8px;
+    position: relative;
+    height: 56px;
+    object-fit: contain;
+  }
+  .trusted-by-some-of-the-worlds-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+    text-align: center;
+  }
+  .linkedin-sales-solutions-ws73l-icon2 {
+    position: absolute;
+    top: 10px;
+    left: 27.2px;
+    border-radius: 11.63px;
+    width: 229.3px;
+    height: 273px;
+    object-fit: cover;
+  }
+  .group-child10,
+  .group-child11,
+  .group-child12 {
+    position: absolute;
+    top: 55px;
+    left: 178px;
+    border-radius: 1.62px;
+    width: 106.3px;
+    height: 64.3px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .group-child11,
+  .group-child12 {
+    top: 197px;
+    left: 0;
+    border-radius: 3.86px;
+    width: 108px;
+    height: 67px;
+  }
+  .group-child12 {
+    top: 0;
+    left: 4px;
+    border-radius: 5.57px;
+    width: 120.3px;
+    height: 96.4px;
+  }
+  .linkedin-sales-solutions-ws73l-container {
+    width: 284.3px;
+    position: relative;
+    height: 283px;
+  }
+  .how-to-do-a-website-audit-to-i-parent1 {
+    width: 340px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-aliceblue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xl) var(--padding-3xs);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+  }
+  .to-use-plerdy2 {
+    color: var(--body-gray);
+  }
+  .reasons-to-use-container2 {
+    width: 340px;
+    position: relative;
+    line-height: 130%;
+    display: inline-block;
+  }
+  .our-team-has2,
+  .you-will-benefit2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+  }
+  .you-will-benefit2 {
+    font-weight: 600;
+    z-index: 0;
+  }
+  .our-team-has2 {
+    font-size: var(--table-subtitle-size);
+    z-index: 1;
+  }
+  .group-child13 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    background-color: var(--color-lavender);
+    width: 219px;
+    height: 219px;
+  }
+  .div9 {
+    position: absolute;
+    right: 109px;
+    bottom: 110px;
+    line-height: 130%;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 92px;
+    height: 91px;
+  }
+  .ellipse-parent4 {
+    width: 219px;
+    position: absolute;
+    margin: 0 !important;
+    right: -109px;
+    bottom: -109px;
+    height: 219px;
+    z-index: 2;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+  }
+  .you-will-benefit-from-our-saas-container {
+    width: 340px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-whitesmoke);
+    height: 372px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xl);
+    box-sizing: border-box;
+    position: relative;
+    gap: var(--gap-xl);
+  }
+  .frame-child3 {
+    width: 90px;
+    position: relative;
+    height: 10px;
+  }
+  .frame-parent6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .boost-my-website-conversion-container {
+    border-radius: var(--br-6xs);
+    background-color: var(--color1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-11xl);
+  }
+  .so-its-high2 {
+    width: 340px;
+    position: relative;
+    font-size: var(--table-subtitle-size);
+    color: var(--body-black);
+    text-align: center;
+    display: inline-block;
+  }
+  .frame-parent7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+    font-size: var(--body-2-size);
+    color: var(--color-white);
+  }
+  .frame-parent5 {
+    gap: var(--gap-xl);
+    font-size: var(--font-size-mid);
+  }
+  .frame-parent4,
+  .frame-parent5,
+  .reasons-to-use-plerdy-data-for-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reasons-to-use-plerdy-data-for-group {
+    gap: var(--gap-mini);
+    font-size: var(--font-size-xl);
+  }
+  .frame-parent4 {
+    position: absolute;
+    top: 59px;
+    left: 10px;
+    gap: var(--gap-21xl);
+  }
+  .mob-child {
+    position: absolute;
+    top: 48.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color2);
+    box-sizing: border-box;
+    width: 361px;
+    height: 1px;
+  }
+  .mob2 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1482px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--table-subtitle-size);
+    color: var(--body-black);
+    font-family: var(--body-2);
+  }
+}
